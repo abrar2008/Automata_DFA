@@ -1,0 +1,18 @@
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\bin\Debug\DFA_Automata.exe.config
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.exe
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.pdb
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\bin\Debug\DFA_Automata.exe
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\bin\Debug\DFA_Automata.pdb
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.csprojResolveAssemblyReference.cache
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.Form1.resources
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.Properties.Resources.resources
+C:\Users\Mohib Akhtar\documents\visual studio 2015\Projects\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.csproj.GenerateResource.Cache
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\bin\Debug\DFA_Automata.exe.config
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.exe
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.pdb
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\bin\Debug\DFA_Automata.exe
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\bin\Debug\DFA_Automata.pdb
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.csprojResolveAssemblyReference.cache
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.Form1.resources
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.Properties.Resources.resources
+C:\Users\mabra\Desktop\New folder\DFA_Automata\DFA_Automata\obj\Debug\DFA_Automata.csproj.GenerateResource.Cache
